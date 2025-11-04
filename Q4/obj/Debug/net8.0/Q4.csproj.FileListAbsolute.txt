@@ -1,0 +1,14 @@
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\obj\Debug\net8.0\Q4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\obj\Debug\net8.0\Q4.AssemblyInfoInputs.cache
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\obj\Debug\net8.0\Q4.AssemblyInfo.cs
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\obj\Debug\net8.0\Q4.csproj.CoreCompileInputs.cache
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\bin\Debug\net8.0\Q4.exe
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\bin\Debug\net8.0\Q4.deps.json
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\bin\Debug\net8.0\Q4.runtimeconfig.json
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\bin\Debug\net8.0\Q4.dll
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\bin\Debug\net8.0\Q4.pdb
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\obj\Debug\net8.0\Q4.dll
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\obj\Debug\net8.0\refint\Q4.dll
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\obj\Debug\net8.0\Q4.pdb
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\obj\Debug\net8.0\Q4.genruntimeconfig.cache
+C:\Users\rohan\OneDrive\Documents\IIC - LAST YEAR\Application Develoment\Wekk 2\Week-3 Workshop\week-3 (Workshop)\Q4\obj\Debug\net8.0\ref\Q4.dll
